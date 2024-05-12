@@ -21,6 +21,11 @@
         "label": "knight-vscode",
         "uiTheme": "vs-dark",
         "path": "./themes/knight-vscode-color-theme.json"
+      },
+      {
+        "label": "knight-vscode (alternative)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/knight-vscode-alternative-color-theme.json"
       }
     ]
   }
