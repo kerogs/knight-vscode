@@ -1,0 +1,27 @@
+{
+  "name": "knight-vscode",
+  "displayName": "knight-vscode",
+  "description": "theme that's comfortable to use",
+  "version": "1.0.3",
+  "publisher": "Kerogs",
+  "icon": "icon.png",
+  "engines": {
+    "vscode": "^1.89.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/VotreNom/NomDuTheme"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "knight-vscode",
+        "uiTheme": "vs-dark",
+        "path": "./themes/knight-vscode-color-theme.json"
+      }
+    ]
+  }
+}
